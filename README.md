@@ -13,6 +13,7 @@ By default, it would be `http://localhost:8501/`
 Click on `Browse files` and choose an image from your computer to upload.  
 Once uploaded, the model will perform inference and the output will be displayed.  
 
+## Output
 
 <img src ='misc/sample_home_page.png' width = 700>  
 
