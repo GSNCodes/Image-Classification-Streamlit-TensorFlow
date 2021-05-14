@@ -1,4 +1,4 @@
-# Image-Classification-Streamlit-Tensorflow
+# Image-Classification-Streamlit-TensorFlow
 A basic web-app for image classification using Streamlit and Tensorflow
 
 ## Commands
