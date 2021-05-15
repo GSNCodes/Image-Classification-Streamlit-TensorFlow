@@ -27,3 +27,7 @@ Once uploaded, the model will perform inference and the output will be displayed
 * The web-app created using Streamlit can be found in `app.py`
 
 
+## References
+
+* https://www.tensorflow.org/tutorials/images/classification
+* https://docs.streamlit.io/en/stable/
